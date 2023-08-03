@@ -1,0 +1,12 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  width: 100%;
+}
+
+header {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 25px;
+}
